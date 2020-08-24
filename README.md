@@ -1,5 +1,6 @@
 # Fall-2020
 Going to try to store all my work for the semester here. \
+Spent some time writing a LaTex template from scratch. \
 ***Advanced Lab*** \
 ***Optics*** 
 
