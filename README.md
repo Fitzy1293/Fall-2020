@@ -4,4 +4,4 @@ Going to try to store all my work for the semester here.
 ***Optics*** //
 
 # Workflow
-![image]('https://raw.githubusercontent.com/Fitzy1293/Fall-2020/master/images/workflow.png')
+![image]('./images/workflow.png')
