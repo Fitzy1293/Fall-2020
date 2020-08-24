@@ -5,3 +5,4 @@ Going to try to store all my work for the semester here.
 
 # Workflow
 ![image](images/workflow.png)
+![pdf](template.pdf)
