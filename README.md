@@ -5,4 +5,4 @@ Going to try to store all my work for the semester here.
 
 # Workflow
 ![image](images/workflow.png)
-![pdf](template.pdf)
+![pdf](https://github.com/Fitzy1293/Fall-2020/raw/master/template.pdf)
