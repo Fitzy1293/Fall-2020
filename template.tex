@@ -1,19 +1,21 @@
 %   ___                     _       _         _____   __  __
 %  / _ \__      _____ _ __ ( )___  | |    __ |_   _|__\ \/ /
-% | | | \ \ /\ / / _ \ '_ \|// __| | |   / _` || |/ _ \\  / 
-% | |_| |\ V  V /  __/ | | | \__ \ | |__| (_| || |  __//  \ 
+% | | | \ \ /\ / / _ \ '_ \|// __| | |   / _` || |/ _ \\  /
+% | |_| |\ V  V /  __/ | | | \__ \ | |__| (_| || |  __//  \
 %  \___/  \_/\_/ \___|_| |_| |___/ |_____\__,_||_|\___/_/\_\
-                                                          
 
+
+%EZ COMMAND LINE COMPILATION (PUT IN LOCAL PATH - NAME >> 'texcomp')
+%texcomp
+  %#!/bin/bash
+  %echo $1
+  %lualatex -interaction nonstopmode $1 > /dev/null
+  %rm *.aux
+  %rm *.dvi
+  %rm *.log
 
 %I wrote this from scratch because every time I'd download a template and change anything it would break everything.
 
-%Compiled with the atom 'latex' package.
-%atom 'language-latex' package for syntax highlighting.
-%atom 'pdf-view-plus' to compile and immediately see changes in atom.
-
-%COMPILE WITH THIS COMMAND WHICH I MADE A BASH ALIAS FOR. NO HASSLE COMPILATION THIS IS LIKE A GOLDEN EGG.
-%alias texcomp="lualatex -interaction nonstopmode $1"
 %────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 %\documentclass[12pt]{article}
 %\pagestyle{plain}
