@@ -8,5 +8,3 @@ Spent some time writing a LaTex template from scratch. \
 Installed miktex and the atom latex package to compile LaTeX in a good text editor/IDE. \
 Using SageMath shell as an alternative to Wolfram Alpha. 
 
-# Workflow
-![image](images/workflow.png)
